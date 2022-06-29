@@ -1,10 +1,13 @@
 # Audio_Book
 
 How did you approach the problem?
+
 -Started Making The Ui First for both screens the worked on the coding part
 
 Brief explanation of what you have built/used including technologies used during coding
+
 -An Audio Book Player app that fetchs data from cloud about the book and when clicked the book runs the audio file. 
+
 - Used Glide library for image , Media Player for audio and firebase for the data.
 
 Share a demo screencast video of the working application. (an installer can be shared too ).
